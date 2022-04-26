@@ -7,4 +7,7 @@ BeautifulSoup\
 requests\
 numpy
 
-You will also need to have access to the internet.
+You also need to have access to the internet.
+
+
+That's it!
