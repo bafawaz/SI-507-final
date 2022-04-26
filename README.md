@@ -5,4 +5,4 @@ seaborn\
 pandas\
 BeautifulSoup\
 requests\
-numpy\
+numpy
