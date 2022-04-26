@@ -4,5 +4,5 @@ matplotlib\
 seaborn\
 pandas\
 BeautifulSoup\
-requests/
-numpy/ 
+requests\
+numpy\
