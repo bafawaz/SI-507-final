@@ -6,3 +6,5 @@ pandas\
 BeautifulSoup\
 requests\
 numpy
+
+You will also need to have access to the internet.
